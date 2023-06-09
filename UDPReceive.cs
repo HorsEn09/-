@@ -7,7 +7,6 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 
-
 public class UDPReceive : MonoBehaviour
 {
     private Thread receiveThread;
